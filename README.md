@@ -1,4 +1,4 @@
-# assignment--2_python_project_tutedude-
+# assignment--2_python_project_tutedude
 Control Structures in Python – Module 3 Assignment <br>
 This repository contains two Python scripts demonstrating control flow concepts like if-else statements and for loops. 
 
